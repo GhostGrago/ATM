@@ -1,0 +1,23 @@
+{
+    "name": "My work room",
+    "accounts": [
+        {
+            "Chequing": 123,
+            "name": "saw",
+            "Saving": 123,
+            "ID": 1,
+            "History": [{
+                "amount": 1,
+                "from": "chequing",
+                "type": "withdraw"
+            }]
+        },
+        {
+            "Chequing": 234,
+            "name": "needle",
+            "Saving": 234,
+            "ID": 2,
+            "History": []
+        }
+    ]
+}

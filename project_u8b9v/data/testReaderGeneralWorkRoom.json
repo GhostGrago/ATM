@@ -1,0 +1,31 @@
+{
+  "name": "Main Workroom",
+  "accounts": [
+    {
+      "Chequing": 2343,
+      "name": "Kai",
+      "Saving": 12,
+      "ID": 1,
+      "History": [
+        {
+          "amount": 1,
+          "from": "chequing",
+          "type": "withdraw"
+        },
+        {
+          "amount": 2,
+          "from": "chequing",
+          "type": "deposit"
+        }
+      ]
+    },
+    {
+      "Chequing": 123,
+      "name": "James",
+      "Saving": 32,
+      "ID": 2,
+      "History": []
+    }
+  ]
+
+}
